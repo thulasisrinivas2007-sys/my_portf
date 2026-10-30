@@ -5,7 +5,7 @@ Welcome to my Github portfolio
 Myself Netravathi Police Patil I am currently pursuing B.Tech CSE(AIML)  2nd year in Reva University. I am passionate about the Artificial Intelligence ,Machine Learning ,Web development ,learning new skills.
 
 
-## Skillls 
+## Skills 
 -C programming
 -HTML
 -CSS
