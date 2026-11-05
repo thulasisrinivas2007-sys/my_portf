@@ -1,37 +1,55 @@
-# My Portfolio
-Welcome to my Github portfolio 
+# Rakshitha.S — GitHub Portfolio
+
+Welcome to my GitHub portfolio.
+
+## Student Details
+
+- **Name:** Rakshitha.S
+- **SRN:** R25EA184
+- **Course:** B.Tech CSE (AI & ML), 2nd year
+- **University:** REVA University
 
 ## About Me
-Myself Netravathi Police Patil I am currently pursuing B.Tech CSE(AIML)  2nd year in Reva University. I am passionate about the Artificial Intelligence ,Machine Learning ,Web development ,learning new skills.
 
+I am a second-year B.Tech student in Computer Science and Engineering (Artificial Intelligence and Machine Learning) at REVA University. I am interested in artificial intelligence, machine learning, web development, and learning new skills.
 
-## Skills 
--C programming
--HTML
--CSS
--JavaScript.
--Python
--Git and Github
+## Skills
+
+- C programming
+- HTML
+- CSS
+- JavaScript
+- Python
+- Git and GitHub
 
 ## Projects
--Online Grocery store
--Eportfolio
--StudymateAI
--MY To do list
--Milk Management System
--IPL ticket booking
+
+- Supabase
+- My Portfolio
+- AI Portfolio
+- Strechlab Tactical Audio
+- E-Portfolio
+- Campus Sports App
+- Portfolio
+- Pixelcraft Studio
+- Intro to GitHub — REVAFYP
+- 2D Graphics Editor
 
 ## Education
-Bachelor of Technology - Computer Science and Engineering in Artificial Intelligent and Machine Learning
+
+Bachelor of Technology in Computer Science and Engineering (Artificial Intelligence and Machine Learning), REVA University.
 
 ## Certifications
--Innovation and Entrepreneurship from Wadwani foundation
--Data science and Data Analysis using python from IBM
--Programming ,Data structure and Algorithm using python
+
+- Innovation and Entrepreneurship — Wadhwani Foundation
+- Data Science and Data Analysis Using Python — IBM
+- Programming, Data Structures, and Algorithms Using Python
 
 ## Goals
--Learn more about AI
--improve skills in python and web development
 
-## Contact details
-Email id - thulasisrinivas2007@gmail.com
+- Learn more about artificial intelligence.
+- Improve my Python and web development skills.
+
+## Contact
+
+email:-thulasisrinivas2007@gmail.com
